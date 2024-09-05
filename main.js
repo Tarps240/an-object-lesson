@@ -41,9 +41,9 @@ myPersevereCodeObj['I am exactly this cool'] = 'soooooo cool';
 // Part 2 - your own object.
 // Now make a new EMPTY object that represents yourself. You won't put any properties in the curly braces, but just like in part 1, add them in each step below using plain JavaScript statements.
 
-const mySelfObj {
+const mySelfObj = {
 
-}
+};
 
 // Add a `firstName` property and set it to a string.
 
